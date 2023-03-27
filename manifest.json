@@ -1,6 +1,6 @@
 {
   "short_name": "Free VPN",
-  "name": "Made by Aryan",
+  "name": "Enjoy!",
   "icons": [
     {
       "src": "logo.png",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#121212",
-  "background_color": "#121212"
+  "theme_color": "#F7F5EB",
+  "background_color": "#F7F5EB"
 }
